@@ -13,4 +13,3 @@ Facebook is a social media platform with a lot of functionalities. In this simpl
 
 ⭐ PS: Please do not forget to drop a star on this repo, if you like it!
 
-
